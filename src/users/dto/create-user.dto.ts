@@ -14,3 +14,5 @@ export class CreateUserDto {
     })
     role: 'ADMIN' | 'USER';
 }
+
+// https://www.linkedin.com/pulse/angular-interview-questions-3-years-experience
